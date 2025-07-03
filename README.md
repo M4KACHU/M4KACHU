@@ -1,3 +1,1 @@
-
-
-" It's Not my fault"
+É só isso por agora.
